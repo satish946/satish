@@ -1,3 +1,2 @@
 #!/bin/perl
 print "helo";
-echo ls;
